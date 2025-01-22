@@ -1,4 +1,4 @@
- Practice
+Homework 1
 ## Instructions
 1. Install WSL2 with Ubuntu linux installed
 2. Create a GitHub account
